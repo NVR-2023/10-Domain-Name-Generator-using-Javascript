@@ -1,8 +1,8 @@
 ***************************************************************************************************************
 
 Exercise #10 - Domain Name Generator using JavaScript (23-03-2023)
-  - Extra challenge - "Feeling Confident" Challenge. Meet extra requirement without ysung any of JS native String methods
-  - Extra Challenge - applying CSS styles to the console.log output itself
+  - Extra challenge - "Feeling Confident" Challenge. Met extra requirements without using any of JS native String methods
+  - Extra Challenge - Applying CSS styles to the console.log output itself
 
 Mark received:
 Date: 

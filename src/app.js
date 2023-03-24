@@ -93,7 +93,7 @@ const getAllPossibleCombinationsWithPuns = () => {
 
 // Prints function #1 - Simple Results
 let simpleResults = getAllPossibleCombinations(dataSet);
-console.log("Solution #1 of 2  - Universal Function");
+console.log("%cSolution #1 of 2  - Universal Function", `color: red`);
 for (let i = 0; i < simpleResults.length; i++) {
   console.log(`${i + 1}   ${simpleResults[i]}`);
 }

@@ -91,18 +91,18 @@ const getAllPossibleCombinationsWithPuns = () => {
   return allPossibleCombinationsWithPuns;
 };
 
-// Prints function #2 - Results with Puns
-let resultsWithPuns = getAllPossibleCombinationsWithPuns();
-console.log("Solution #2 of 2  -  Feeling Confident Challenge");
-for (let i = 0; i < resultsWithPuns.length; i++) {
-  if (resultsWithPuns[i][0] === "P") {
-    console.log(`%c ${i + 1}   ${resultsWithPuns[i]}`, `color: red`);
-  } else console.log(`${i + 1}   ${resultsWithPuns[i]}`);
-}
-
 // Prints function #1 - Simple Results
 let simpleResults = getAllPossibleCombinations(dataSet);
 console.log("Solution #1 of 2  - Universal Function");
 for (let i = 0; i < simpleResults.length; i++) {
   console.log(`${i + 1}   ${simpleResults[i]}`);
+}
+
+// Prints function #2 - Results with Puns
+let resultsWithPuns = getAllPossibleCombinationsWithPuns();
+console.log("%cSolution #2 of 2  -  Feeling Confident Challenge", `color: red`);
+for (let i = 0; i < resultsWithPuns.length; i++) {
+  if (resultsWithPuns[i][0] === "P") {
+    console.log(`%c ${i + 1}   ${resultsWithPuns[i]}`, `color: red`);
+  } else console.log(`${i + 1}   ${resultsWithPuns[i]}`);
 }

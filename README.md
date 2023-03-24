@@ -1,3 +1,14 @@
+***************************************************************************************************************
+
+Exercise #10 - Domain Name Generator using JavaScript (23-03-2023)
+  - Extra challenge - "Feeling Confident" Challenge. Meet extra requirement without ysung any of JS native String methods
+  - Extra Challenge - applying CSS styles to the console.log output itself
+
+Mark received:
+Date: 
+Teacher:
+
+***************************************************************************************************************
 # Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in codespaces (coming soon) or [gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).

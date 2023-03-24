@@ -6,8 +6,8 @@ import "./assets/img/4geeks.ico";
 
 // General comments
 // 1. Offered two distinct solutions to the exercise
-// 2. Solved the "feeling confident " Challenge without using any native JavaScript's string moethods"
-// 3. Experimented wuh conditional Console.logging, specifically, with CSS applied to consoel.log
+// 2. Met the "feeling confident " Challenge without using any native JavaScript String moethods"
+// 3. Experimented wuh conditional Console.logging, specifically, with CSS applied to console.log
 
 // Initializing data
 const pronoun = ["the", "our"];
